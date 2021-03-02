@@ -1,6 +1,8 @@
-# Distributed System: FileSysmte
+Team project with shawn-programming.
 
+Worked via VScode LiveShare functionality. 
 
+# Distributed System: FileSystem
 
 Our system has one leader node that stores all file meta-data within the system and processes all put/get requests made from clients. For leader failure, we used ring leader election protocol. 
 
