@@ -1,4 +1,4 @@
-Team project with shawn-programming.
+Team project with shawn-programming for ECE428 (Distributed System)
 
 Worked via VScode LiveShare functionality. 
 
